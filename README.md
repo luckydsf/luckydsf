@@ -1,4 +1,3 @@
-June 2022
 - 👋 I enjoy all things GIS and acquiring new skills through self-learning. 
 - 👀 I’m interested in GIS: developing web and mobile applications, creating data transformations, analysis, etc.
 - 💞️ I’m looking to collaborate on GIS projects that will help me improve my GIS skills and helping others is always a bonus!
