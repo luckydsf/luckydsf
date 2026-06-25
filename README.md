@@ -1,3 +1,3 @@
-- 👋 I enjoy all things GIS and acquiring new skills through self-learning. 
-- 👀 I’m interested in GIS: developing web and mobile applications, creating data transformations, analysis, etc.
-- 💞️ I’m looking to collaborate on GIS projects that will help me improve my GIS skills and helping others is always a bonus!
+- 👋 I am a GIS developer and full-stack software engineer passionate about building spatial solutions and continuously expanding my technical toolkit through hands-on learning.
+- 👀 My core expertise includes developing robust web and mobile applications, designing complex data transformations, and performing deep spatial analysis.
+- 💞️ I’m always open to collaborating on innovative GIS projects, tackling new development challenges, and mentoring or helping others along the way.
